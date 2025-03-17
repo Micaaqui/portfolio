@@ -119,6 +119,7 @@ body {
     font-family: var(--fonte-secuntaria);
     font-size: 1.5rem;
     font-weight: 400;
+    width: 100%;
 }
 
 @media (max-width: 1200px){

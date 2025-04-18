@@ -1,6 +1,6 @@
-# Portfolio da Mica
+# Mica's portfolio
 
-- HTML e CSS
+- HTML and CSS
 
 
-![Print do site](print.png)
+![Screenshot](print.png)
